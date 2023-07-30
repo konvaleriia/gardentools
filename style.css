@@ -10,6 +10,9 @@
     background-color: #f9f9f9;
 }
 
+.body-bg {
+    background-color: #aaff65;
+}
 
 .navbar {
     background-color: #4CAF50;
@@ -23,4 +26,13 @@
 .card-panels {
     display: flex;
     justify-content: space-around;
+}
+
+.img-carousel {
+    display: flex;
+    justify-content: space-around;
+}
+
+.carouseldiv {
+    padding: 2%;
 }
